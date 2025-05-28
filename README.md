@@ -1,25 +1,16 @@
-# Final Project and Deployment
+# My Blog Website
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+This is a simple blog website created using HTML, CSS, and JavaScript. It features a homepage and an about page with basic styling and interactivity.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## 🔗 Live Demo
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+[Click here to view the live website](https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-pjayy99)
 
-## Tasks
+## 📁 Project Files
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+- `index.html` – Homepage
+- `about.html` – About Page
+- `style.css` – Stylesheet
+- `script.js` – JavaScript functionality
+- `README.md` – Project documentation
 
-Good luck and happy coding! 🚀💻
